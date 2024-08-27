@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+    footer, ul{
+        text-align: center;
+    }
+}
+#carouselExample, .card, .list-group{
+    margin: 20px;
+    padding: 15px;
+}
